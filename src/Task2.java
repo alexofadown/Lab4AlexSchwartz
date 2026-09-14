@@ -1,6 +1,6 @@
 public class Task2 {
-}
-
-void main() {
-
+    public static void main (String[] args) {
+        // code goes here
+        System.out.println("hi test");
+    }
 }
