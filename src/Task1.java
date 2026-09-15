@@ -1,3 +1,5 @@
+//Comparing Integer and Double Variables
+
 public class Task1 {
     public static void main (String[] args) {
 
