@@ -1,10 +1,8 @@
 //Monthly Credit Card Balance
-import java.util.Scanner;
 public class Task4 {
     static void main() {
 
         //declaring variables
-        Scanner scan = new Scanner(System.in);
         double initialCardBalance = 5000;
         double interestRate = 0.17;
         double oneMonthBalance;

@@ -26,7 +26,7 @@ public class Task2 {
             }
         }
         //Calculating final cost
-            finalCost = (totalPrice * taxRate) + totalPrice;
+            finalCost = totalPrice + (totalPrice * taxRate);
             System.out.println("Your total cost is: $" + finalCost);
     }
 }
